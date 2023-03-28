@@ -1,0 +1,25 @@
+@media screen and (max-width: 800px){
+	.opcoes-menu{
+		display: none;
+	}
+	body{
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+	}
+	.container-superior{
+		display: inline-block;
+	}
+	.container-superior div a{
+		margin-top: 2svh;
+	}
+	#inner-inferior{
+		display: inline-block;
+	}
+	.card{
+		margin-top: 4svh;
+	}
+	.wpp{
+		display: none;
+	}
+}
